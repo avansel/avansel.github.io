@@ -18,10 +18,10 @@
                 <h1 class="mt-0">{{ $page->title }}</h1>
                 <p class="lead">{{ $page->description }}</p>
                 <div class="d-flex flex-column flex-md-row gap-3">
-                    <a href="/documentation" class="btn btn-lg btn-primary">
+                    <a href="/documentation/" class="btn btn-lg btn-primary">
                         Get Started
                     </a>
-                    <a href="/examples" class="btn btn-lg btn-outline-secondary d-flex align-items-center justify-content-center fw-semibold">
+                    <a href="/examples/" class="btn btn-lg btn-outline-secondary d-flex align-items-center justify-content-center fw-semibold">
                         Explore examples
                     </a>
                 </div>
