@@ -36,6 +36,9 @@ jobs:
       - name: Install Composer dependencies
         run: composer install --prefer-dist --no-interaction --no-progress
 
+      - name: Build
+        run: vendor/bin/jigsaw build production  
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
