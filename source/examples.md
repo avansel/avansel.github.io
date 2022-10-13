@@ -8,6 +8,6 @@ author: "Roman Grinev"
 
 ## Single Panorama Examples
 
-* [Single Panorama](/examples/sphere)
-* [Multiresolution Panorama (5 levels)](/examples/multires-1)
-* [Multiresolution Panorama (16 levels)](/examples/multires-2)
+* [Single Panorama](/examples/sphere/)
+* [Multiresolution Panorama (5 levels)](/examples/multires-1/)
+* [Multiresolution Panorama (16 levels)](/examples/multires-2/)
