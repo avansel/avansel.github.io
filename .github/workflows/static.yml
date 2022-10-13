@@ -33,6 +33,9 @@ jobs:
           php-version: 8.1
           coverage: none # remove xdebug
 
+      - name: Install Composer dependencies
+        run: composer install --prefer-dist --no-interaction --no-progress
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
