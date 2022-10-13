@@ -7,7 +7,7 @@ author: "Roman Grinev"
 
 HTML
 ```HTML
-<div class="pano"></div>
+<div id="pano"></div>
 ```
 
 JavaScript
