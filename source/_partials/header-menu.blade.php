@@ -18,8 +18,11 @@
                 </li>
             </ul>
             <ul class="navbar-nav mb-2 mb-lg-0">
-                <li class="nav-item">
+            <li class="nav-item">
                     <a class="nav-link" href="https://github.com/avansel/viewer" title="Avansel/Viewer on GitHub"><i class="bi bi-github"></i></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://twitter.com/avansel360" title="Avansel/Viewer on Twitter"><i class="bi bi-twitter"></i></a>
                 </li>
             </ul>
             
