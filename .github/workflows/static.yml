@@ -36,6 +36,12 @@ jobs:
       - name: Install Composer dependencies
         run: composer install --prefer-dist --no-interaction --no-progress
 
+      - name: Npm install
+        run: npm install
+      
+      - name: Npm run prod
+        run: npm run prod
+
       - name: Build
         run: vendor/bin/jigsaw build production  
 
