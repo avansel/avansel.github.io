@@ -1,3 +1,4 @@
+import bootstrap from 'bootstrap'
 import { Avansel } from "avansel"
 import hljs from 'highlight.js'
 
