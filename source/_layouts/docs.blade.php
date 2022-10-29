@@ -15,7 +15,7 @@
             <div>
                 @include('_partials.header-menu')
 
-                <div class="container d-flex my-4">
+                <div class="container d-flex flex-wrap flex-md-nowrap my-4">
 
                     <aside class="me-4 flex-shrink-0">
                         @include('_partials.side-menu')
