@@ -9,6 +9,8 @@ author: "Roman Grinev"
 ## Premium Partners
 
 * [Avansel](https://avansel.com)
+* [Avansel Equipment](https://equip.avansel.com)
+* [Avansel Viewer](https://github.com/avansel/viewer)
 * [TrueVirtualTours](https://truevirtualtours.com)
 
 
