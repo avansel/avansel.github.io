@@ -8,10 +8,10 @@ author: "Roman Grinev"
 
 ## Premium Partners
 
-* [Avansel](https://avansel.com)
+* [LabPano](https://www.labpano.com/en/) manufacturer or the [PilotPano Versatile 360⁰ Al Camera](https://equip.avansel.com/product/pilotpano-versatile-360-ai)
+* [True Virtual Tours](https://truevirtualtours.com) - software for publishing 360⁰ panoramas and creating virtual tours
+* [Avansel.com](https://avansel.com) - Everything you may need for Virtual Tours
 * [Avansel Equipment](https://equip.avansel.com)
 * [Avansel Viewer](https://github.com/avansel/viewer)
-* [TrueVirtualTours](https://truevirtualtours.com)
-
 
 [Fund this package](https://patreon.com/grinev)
