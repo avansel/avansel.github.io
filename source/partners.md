@@ -14,4 +14,4 @@ author: "Roman Grinev"
 * [Avansel Equipment](https://equip.avansel.com)
 * [Avansel Viewer](https://github.com/avansel/viewer)
 
-[Fund this package](https://patreon.com/grinev) or [contact us](https://www.avansel.com/contact-us) to became a partner
+[Fund this package](https://patreon.com/grinev) or [contact us](https://www.avansel.com/contact-us) to become a partner
