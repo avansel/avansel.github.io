@@ -26,7 +26,7 @@ Using a text editor, fill the file with these contents:
     <script type="module">
         import { Avansel } from "avansel"
         new Avansel(document.querySelector('#pano'))
-            .sphere('https://avansel.github.io/assets/pano.jpg')
+            .sphere('https://avansel.github.io/assets/images/pano.jpg')
             .start()
     </script>
 </body>
